@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class Judge {
+public class Judge {
 
     public static int findJudge(int N, int [][] trust) {
         Boolean[] people = new Boolean[N+1];
